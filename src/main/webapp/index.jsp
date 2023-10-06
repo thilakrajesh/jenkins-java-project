@@ -16,7 +16,7 @@
         <form action="#">
             <div class="form-control">
                 <input type="text" required>
-                <label>Email  or Phone number</label>
+                <label>Email buni  or Phone number</label>
             </div>
             <div class="form-control">
                 <input type="password" required>
