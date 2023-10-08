@@ -11,7 +11,7 @@
     <nav>
         <a href="#"><img src="images/logo.svg" alt="logo"></a>
     </nav>
-    <div class="form-wrapper">
+    <div class="rajesh-wrapper">
     <h2>NETFLIX SIGN IN V-11.0</h2>
         <form action="#">
             <div class="form-control">
